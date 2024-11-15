@@ -1,7 +1,7 @@
 # MovieReel
 
 ## Project Description
-**Movie Explorer** is an interactive web application that allows users to explore detailed information about movies and actors using a powerful movie API. Users can browse popular movies, view actor details, and watch trailers, all while navigating an intuitive interface. The project highlights the integration of API data to create dynamic and user-friendly pages.
+**MovieReel** is an interactive web application that allows users to explore detailed information about movies and actors using a powerful movie API. Users can browse popular movies, view actor details, and watch trailers, all while navigating an intuitive interface. The project highlights the integration of API data to create dynamic and user-friendly pages.
 
 ## Tools Used
 - HTML, CSS, JavaScript
